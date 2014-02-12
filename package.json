@@ -1,0 +1,24 @@
+{
+  "name": "IMT4002-Project",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vstene/IMT4002-cordova"
+  },
+  "keywords": [
+    "imt4002"
+  ],
+  "author": "Vegard Stene <jvstene@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vstene/IMT4002-cordova/issues"
+  },
+  "homepage": "https://github.com/vstene/IMT4002-cordova",
+  "dependencies": {
+    "imt-4002-web": "git://github.com/vstene/IMT4002-web.git"
+  }
+}
