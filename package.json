@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "preinstall": "npm list cordova -g || sudo npm install cordova -g"
+    "preinstall": "npm list cordova -g || npm install cordova -g;"
   },
   "repository": {
     "type": "git",
