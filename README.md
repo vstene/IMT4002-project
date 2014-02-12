@@ -1,6 +1,10 @@
-ionic-angular-cordova-seed
+IMT 4002 Project
 ==========================
 
-The perfect starting point for an Ionic project.
+To install:
+`npm install`
 
-- [Ionic Tutorials](http://ionicframework.com/tutorials/)
+Emulate with cordova:
+`cordova plugin add org.apache.cordova.device`
+`cordova platform add ios`
+`cordova emulate ios`
